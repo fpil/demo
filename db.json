@@ -1,7 +1,7 @@
 {
   "posts": [
   {
-    "_id": "5e64dd3b7ef3be412d057d8c",
+    "id": "5e64dd3b7ef3be412d057d8c",
     "headline": "Smuk Rækkehus tæt på naturen",
     "type": "Fritidsgrund",
     "photos": "http://placehold.it/32x32",
@@ -23,7 +23,7 @@
     "numberOfDays": 28
   },
   {
-    "_id": "5e64dd3b459a2b983eaaaa52",
+    "id": "5e64dd3b459a2b983eaaaa52",
     "headline": "Smuk Helårsgrund med højt til loftet",
     "type": "Ejerlejlighed",
     "photos": "http://placehold.it/32x32",
@@ -45,7 +45,7 @@
     "numberOfDays": 29
   },
   {
-    "_id": "5e64dd3bee8de688e79e44f8",
+    "id": "5e64dd3bee8de688e79e44f8",
     "headline": "Moderne Fritidsgrund med havudsigt",
     "type": "Villa",
     "photos": "http://placehold.it/32x32",
@@ -67,7 +67,7 @@
     "numberOfDays": 19
   },
   {
-    "_id": "5e64dd3b36ff87084960e847",
+    "id": "5e64dd3b36ff87084960e847",
     "headline": "Fantastisk Rækkehus tæt på naturen",
     "type": "Andelsbolig",
     "photos": "http://placehold.it/32x32",
@@ -89,7 +89,7 @@
     "numberOfDays": 30
   },
   {
-    "_id": "5e64dd3b37748830f969cfe9",
+    "id": "5e64dd3b37748830f969cfe9",
     "headline": "Moderne Fritidsbolig tæt på naturen",
     "type": "Helårsgrund",
     "photos": "http://placehold.it/32x32",
